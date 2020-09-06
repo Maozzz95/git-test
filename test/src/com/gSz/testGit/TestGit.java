@@ -17,7 +17,10 @@ public class TestGit {
     }
 
     public void test(){
-        System.out.println("hhhhhhh");
+        System.out.println("12345");
+        System.out.println("12345");
+        System.out.println("12345");
+        System.out.println("12345");
     }
 
 }
